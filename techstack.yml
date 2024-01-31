@@ -1,0 +1,2904 @@
+repo_name: ravichanga101/charusatv2-code-ignitor
+report_id: b7951946d4a93d98f15e5d1ded519346
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:42:30+00:00'
+requested_by: ravichanga101
+provider: github
+branch: main
+detected_tools_count: 216
+tools:
+- name: Bel
+  description: A new dialect of Lisp, by Paul Graham
+  website_url: http://paulgraham.com/bel.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/11408/no-img-open-source.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor
+  detection_source: Repo Metadata
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/js-tokens/package.json
+  detection_source: node_modules/js-tokens/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: D
+  description: Modern convenience. Modeling power. Native efficiency.
+  website_url: http://dlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: ES6
+  description: The next version of JavaScript
+  website_url: http://www.ecma-international.org/ecma-262/6.0/
+  version: 6.24.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Eve
+  description: Programming designed for humans
+  website_url: http://programming.witheve.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/5985/qbJoNuap.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/js-tokens/package.json
+  detection_source: node_modules/js-tokens/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Hack
+  description: A programming language for HHVM that interoperates seamlessly with
+    PHP
+  website_url: http://hacklang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor
+  detection_source: Repo Metadata
+- name: JSON
+  description: A lightweight data-interchange format
+  website_url: http://www.json.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-is/package.json
+  detection_source: node_modules/react-is/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor
+  detection_source: Repo Metadata
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 3.8.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-easy-swipe/package.json
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: CodeIgniter
+  description: A Fully Baked PHP Framework
+  website_url: http://ellislab.com/codeigniter
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1195/ci_logo.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/composer.json
+  detection_source: composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Iron
+  description: Extensible web framework for Rust
+  website_url: http://ironframework.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/3460/7853871.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Lit
+  description: "441 byte responsive \U0001F525 CSS framework"
+  website_url: https://ajusa.github.io/lit/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Matcha
+  description: A framework for building iOS and Android apps in Go
+  website_url: https://gomatcha.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7697/28016430.jpeg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/object-assign/package.json
+  detection_source: node_modules/object-assign/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Play
+  description: The High Velocity Web Framework For Java and Scala
+  website_url: http://www.playframework.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1013/HqN22PuY.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 15.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Xtend
+  description: Flexible and expressive dialect of Java
+  website_url: http://www.eclipse.org/xtend/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Language Extensions
+  image_url: https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/object-assign/package.json
+  detection_source: node_modules/object-assign/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: DB
+  description: 'Version control for databases: save, restore, and archive snapshots
+    of your database from the command line'
+  website_url: https://github.com/infostreams/db
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/composer.json
+  detection_source: composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: dat
+  description: Real-time replication and versioning for data sets
+  website_url: http://dat-data.com/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: ent
+  description: An entity framework for Go
+  website_url: https://entgo.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Ace
+  description: Embeddable code editor written in JavaScript
+  website_url: https://ace.c9.io
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Collaborative Text Editor
+  image_url: https://img.stackshare.io/service/5372/ACE-Cloud9-EDITOR-Social-Media-icon.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 5.8.38
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 17.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Bundler
+  description: 'A consistent environment for tracking and installing  gems and versions '
+  website_url: http://bundler.io
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/2988/4e77LXIo_400x400.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: CodeSandbox
+  description: Online playground for React
+  website_url: https://codesandbox.io/
+  open_source: true
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Cloud IDE
+  image_url: https://img.stackshare.io/service/7434/Screen_20Shot_202017-08-11_20at_205.55.05_20AM.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Component
+  description: Client package management for building better web applications
+  website_url: http://component.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/848/b5afc399fabed86ab0580f68f8b9b553.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-easy-swipe/package.json
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Composer
+  description: Dependency Manager for PHP
+  website_url: https://getcomposer.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/1688/New_Project__65_.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-easy-swipe/package.json
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Enzyme
+  description: JavaScript Testing utilities for React, by Airbnb
+  website_url: https://enzymejs.github.io/enzyme/
+  version: 2.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/4488/default_87e6ca3fa146a959af95ccf3df1ec550eb434129.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor
+  detection_source: Repo Metadata
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 19.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Kadira
+  description: Performance Monitoring for Meteor
+  website_url: https://kadira.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Performance Monitoring
+  image_url: https://img.stackshare.io/service/2943/556a74a47d94ecff7ed4d94a8f96c0c0.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 2.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-easy-swipe/package.json
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: PHPStan
+  description: PHP Static Analysis Tool - discover bugs in your code without running
+    it!
+  website_url: https://github.com/phpstan/phpstan
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/8333/phpst.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/my-project/myapp/composer.json
+  detection_source: my-project/myapp/composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  version: 9.5.24
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Parcel
+  description: "\U0001F4E6\U0001F680  A fast, zero configuration web application bundler"
+  website_url: https://parceljs.org/
+  version: 1.12.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: PhpSpec
+  description: A  toolset for behavior driven development
+  website_url: http://www.phpspec.net/en/latest/
+  version: 7.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3502/6b9dfb07681dee602dbdf75d9393f07c_400x400.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 1.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 1.17.7
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 1.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-easy-swipe/package.json
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 7.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/js-tokens/package.json
+  detection_source: node_modules/js-tokens/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: pre-commit
+  description: A slightly improved pre-commit hook for git
+  website_url: http://jish.github.io/pre-commit/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Render
+  description: A unified platform to build and run all your apps and websites
+  website_url: https://render.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/11319/tmYAm4ow_400x400.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-easy-swipe/package.json
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Chartio
+  description: A powerful Business Intelligence tool anyone can use
+  website_url: https://chartio.com
+  open_source: false
+  hosted_saas: true
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/js-tokens/package.json
+  detection_source: node_modules/js-tokens/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Gmail
+  description: A free web-based e-mail service
+  website_url: https://mail.google.com
+  open_source: false
+  hosted_saas: true
+  category: Back Office
+  sub_category: Email Services
+  image_url: https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Simple
+  description: Track Time with One Click
+  website_url: https://simple-tracker.com
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Time Tracking
+  image_url: https://img.stackshare.io/service/11894/default_5bb2c0012a8c2666af5081e803e15952f675da0c.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Typ
+  description: Turn Markdown into formatted PDFs
+  website_url: https://www.typ-set.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Conversion
+  image_url: https://img.stackshare.io/service/11914/typ.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: APT
+  description: A set of tools for managing Debian packages.
+  website_url: https://wiki.debian.org/Apt
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8701/apt.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Copy
+  description: Accessible Cloud Storage from @Barracuda — Save your work. Save your
+    life.
+  website_url: http://copy.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2492/Ie9kefsM_normal.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: EC
+  website_url: BUG
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4455/no-img-open-source.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: ECT
+  website_url: http://ectjs.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2391/no-img-open-source.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 3.10.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/object-assign/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: OpenLayers
+  description: A high-performance, feature-packed library for all your mapping needs
+  website_url: http://openlayers.org/
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/object-assign/package.json
+  detection_source: node_modules/object-assign/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Per
+  description: Offer usage-based billing to your customers without the work.
+  website_url: https://www.useper.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10232/logo-500x300.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/object-assign/package.json
+  detection_source: node_modules/object-assign/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: React Navigation
+  description: Flexible navigation library for React Native and web. Learn once, navigate
+    anywhere.
+  website_url: https://reactnavigation.org/
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/js-tokens/package.json
+  detection_source: node_modules/js-tokens/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Sandbox
+  description: Quick and easy mock RESTful API and SOAP webservices
+  website_url: https://getsandbox.com/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: API Tools
+  image_url: https://img.stackshare.io/service/4850/default_184acc5bd4db3f48b142e147c175de6b2e06850c.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: UglifyJS
+  description: A JavaScript parser, minifier, compressor and beautifier toolkit.
+  website_url: http://lisperator.net/uglifyjs/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: Vercel AI SDK
+  description: An interoperable, streaming-enabled, edge-ready software development
+    kit for AI apps
+  website_url: https://sdk.vercel.ai/docs
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: auto
+  description: Making the Car buying process easier
+  website_url: http://autoportal.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2634/quvIzEn2_normal.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: chai-enzyme
+  website_url: https://github.com/producthunt/chai-enzyme
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6695/6935003.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-easy-swipe/package.json
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: crea
+  description: 'Protocol for the creation of hypermedia dapps based on the #blockchain
+    that rewards creatives and curators of digital content. #IPFS #DPOS #CC $CREA
+    @crearynet'
+  website_url: https://creaproject.io
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10991/RLwUWE7F_normal.jpg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: nci
+  description: Flexible, open source continuous integration server written in node.js
+  website_url: https://github.com/node-ci/nci
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7802/13189529.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: xo
+  description: Zero configuration fixer and linter for javascript code.
+  website_url: https://www.npmjs.com/package/xo
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4535/no-img-open-source.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/object-assign/package.json
+  detection_source: node_modules/object-assign/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@babel/cli"
+  description: Babel command line
+  package_url: https://www.npmjs.com/@babel/cli
+  version: 7.8.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@babel/plugin-proposal-class-properties"
+  description: This plugin transforms static class properties as well as properties
+    declared with the property initializer syntax
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-class-properties
+  version: 7.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15903/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.9.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.9.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@babel/preset-typescript"
+  description: Babel preset for TypeScript
+  package_url: https://www.npmjs.com/@babel/preset-typescript
+  version: 7.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@kadira/storybook"
+  description: 'React Storybook: Isolate React Component Development with Hot Reloading'
+  package_url: https://www.npmjs.com/@kadira/storybook
+  version: 2.35.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16745/default_ee69dab268e6a52104564fd4259549f5b48a25d4.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@storybook/addon-actions"
+  description: Action Logger addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-actions
+  version: 5.3.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16126/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@storybook/addon-knobs"
+  description: Storybook Addon Prop Editor Component
+  package_url: https://www.npmjs.com/@storybook/addon-knobs
+  version: 5.3.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16279/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@storybook/addon-storysource"
+  description: Stories addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-storysource
+  version: 5.3.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16977/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@storybook/addon-viewport"
+  description: Storybook addon to change the viewport size to mobile
+  package_url: https://www.npmjs.com/@storybook/addon-viewport
+  version: 5.3.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16893/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@storybook/react"
+  description: 'Storybook for React: Develop React Component in isolation with Hot
+    Reloading'
+  package_url: https://www.npmjs.com/@storybook/react
+  version: 5.3.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@types/classnames"
+  description: TypeScript definitions for classnames
+  package_url: https://www.npmjs.com/@types/classnames
+  version: 2.2.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16431/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@types/enzyme"
+  description: TypeScript definitions for Enzyme
+  package_url: https://www.npmjs.com/@types/enzyme
+  version: 3.10.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16307/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 25.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 16.9.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 16.9.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: "@types/react-test-renderer"
+  description: TypeScript definitions for react-test-renderer
+  package_url: https://www.npmjs.com/@types/react-test-renderer
+  version: 16.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16593/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: ai
+  description: The Vercel AI SDK is **a library for building AI-powered streaming
+    text and chat UIs**
+  package_url: https://www.npmjs.com/ai
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: auto-changelog
+  description: Command line tool for generating a changelog from git tags and commit
+    history
+  package_url: https://www.npmjs.com/auto-changelog
+  version: 1.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17867/default_369b3bf3ef062123a581e4817f09cb0004de7ff6.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: ava
+  description: Testing can be a drag. AVA helps you get it done
+  package_url: https://www.npmjs.com/ava
+  version: 0.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/object-assign/package.json
+  detection_source: node_modules/js-tokens/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: babel-cli
+  description: Babel command line
+  package_url: https://www.npmjs.com/babel-cli
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15804/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 5.8.38
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 4.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 19.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 6.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: babel-plugin-transform-es2015-modules-umd
+  description: This plugin transforms ES2015 modules to UMD
+  package_url: https://www.npmjs.com/babel-plugin-transform-es2015-modules-umd
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16412/default_3d8bf87f0e09f3da6536330e02ffa89677f8784b.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: babel-preset-react
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/babel-preset-react
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15825/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: babel-preset-stage-1
+  description: Babel preset for stage 1 plugins
+  package_url: https://www.npmjs.com/babel-preset-stage-1
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16071/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: babel-register
+  description: Babel require hook
+  package_url: https://www.npmjs.com/babel-register
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15865/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: benchmark
+  description: A benchmarking library that supports high-resolution timers &amp; returns
+    statistically significant results
+  package_url: https://www.npmjs.com/benchmark
+  version: 2.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16241/default_cbc604730ab04341982d806fe402cd0706cc8bf4.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: bl
+  description: 'Buffer List: collect buffers and access with a standard readable Buffer
+    interface'
+  package_url: https://www.npmjs.com/bl
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: bundle-collapser
+  description: Convert bundle paths to IDS to save bytes in browserify bundles
+  package_url: https://www.npmjs.com/bundle-collapser
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17977/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: chai-enzyme
+  description: Chai.js assertions for enzyme
+  package_url: https://www.npmjs.com/chai-enzyme
+  version: 0.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16869/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: cheerio
+  description: Fast, flexible, and lean implementation of core jQuery
+  package_url: https://www.npmjs.com/cheerio
+  version: 0.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15949/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: classnames
+  description: A simple utility for conditionally joining classNames together
+  package_url: https://www.npmjs.com/classnames
+  version: 2.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/package-lock.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: cli
+  description: A tool for rapidly building command line apps
+  package_url: https://www.npmjs.com/cli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: co
+  description: Generator async control flow goodness
+  package_url: https://www.npmjs.com/co
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: code
+  description: Assertion library
+  package_url: https://www.npmjs.com/code
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16417/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: conf
+  description: Simple config handling for your app or module
+  package_url: https://www.npmjs.com/conf
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17998/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: config
+  description: Configuration control for production node deployments
+  package_url: https://www.npmjs.com/config
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: copy
+  description: Copy files or directories using globs
+  package_url: https://www.npmjs.com/copy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17538/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: css
+  description: CSS parser / stringifier
+  package_url: https://www.npmjs.com/css
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17017/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 2.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/js-tokens/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: envify
+  description: Selectively replace Node-style environment variables with plain strings
+  package_url: https://www.npmjs.com/envify
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16578/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: enzyme-adapter-react-16
+  description: JavaScript Testing utilities for React
+  package_url: https://www.npmjs.com/enzyme-adapter-react-16
+  version: 1.15.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15959/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: eslint-config-airbnb
+  description: Airbnb's ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 3.16.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: esprima
+  description: ECMAScript parsing infrastructure for multipurpose analysis
+  package_url: https://www.npmjs.com/esprima
+  version: 2.7.3
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16362/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/js-tokens/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: extend
+  description: Port of jQuery.extend for node.js and the browser
+  package_url: https://www.npmjs.com/extend
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16161/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/object-assign/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in extend
+    cve_id: CVE-2018-16492
+    cve_url: https://github.com/advisories/GHSA-qrmc-fj45-qfc2
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.0.2
+- name: gh-pages
+  description: Publish to a gh-pages branch on GitHub
+  package_url: https://www.npmjs.com/gh-pages
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15967/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: github
+  description: 'DEPRECATED: renamed to @octokit/rest'
+  package_url: https://www.npmjs.com/github
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: gm
+  description: GraphicsMagick and ImageMagick for node.js
+  package_url: https://www.npmjs.com/gm
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16804/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: gulp-babel
+  description: Use next generation JavaScript, today
+  package_url: https://www.npmjs.com/gulp-babel
+  version: 6.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15963/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: gulp-changed
+  description: Only pass through changed files
+  package_url: https://www.npmjs.com/gulp-changed
+  version: 1.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16619/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: gulp-eslint
+  description: A gulp plugin for processing files with ESLint
+  package_url: https://www.npmjs.com/gulp-eslint
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16009/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: gulp-mocha
+  description: Run Mocha tests
+  package_url: https://www.npmjs.com/gulp-mocha
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15960/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: gulp-sourcemaps
+  description: Source map support for Gulp.js
+  package_url: https://www.npmjs.com/gulp-sourcemaps
+  version: 1.12.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15958/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: hat
+  description: Generate random IDs and avoid collisions
+  package_url: https://www.npmjs.com/hat
+  license: MIT,X11
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18457/default_1ee30bb84bfc1558e9a2c7e21dfb728addee0444.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/js-tokens/package.json
+  detection_source: node_modules/js-tokens/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: he
+  description: A robust HTML entities encoder/decoder with full Unicode support
+  package_url: https://www.npmjs.com/he
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: https
+  description: Https mediation
+  package_url: https://www.npmjs.com/https
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 3.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: i
+  description: Custom inflections for nodejs
+  package_url: https://www.npmjs.com/i
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: ignore
+  description: Ignore is a manager and filter for .gitignore rules
+  package_url: https://www.npmjs.com/ignore
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17744/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: in-publish
+  description: Detect if we were run as a result of `npm publish`
+  package_url: https://www.npmjs.com/in-publish
+  version: 2.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16666/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: ini
+  description: An ini encoder/decoder for node
+  package_url: https://www.npmjs.com/ini
+  version: 1.3.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+  vulnerabilities:
+  - name: ini before 1.3.6 vulnerable to Prototype Pollution via ini.parse
+    cve_id: CVE-2020-7788
+    cve_url: https://github.com/advisories/GHSA-qqgx-2p2h-9c37
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.3.6
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: is
+  description: The definitive JavaScript type testing library
+  package_url: https://www.npmjs.com/is
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: jest-cli
+  description: Delightful JavaScript Testing
+  package_url: https://www.npmjs.com/jest-cli
+  version: 25.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16022/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: joi
+  description: Object schema validation
+  package_url: https://www.npmjs.com/joi
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16173/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: log
+  description: Universal pluggable logging utility
+  package_url: https://www.npmjs.com/log
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17960/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: loose-envify
+  description: Fast
+  package_url: https://www.npmjs.com/loose-envify
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18138/default_5813ab9c745152271a057cdab6eeded8939401f3.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/package-lock.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: ms
+  description: Tiny millisecond conversion utility
+  package_url: https://www.npmjs.com/ms
+  version: 0.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+  vulnerabilities:
+  - name: Vercel ms Inefficient Regular Expression Complexity vulnerability
+    cve_id: CVE-2017-20162
+    cve_url: https://github.com/advisories/GHSA-w9mr-4mfr-499f
+    detected_date: Jan 11
+    severity: moderate
+    first_patched: 2.0.0
+- name: node
+  description: Node
+  package_url: https://www.npmjs.com/node
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 4.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+- name: np
+  description: A better `npm publish`
+  package_url: https://www.npmjs.com/np
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/js-tokens/package.json
+  detection_source: node_modules/js-tokens/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: npm
+  description: A package manager for JavaScript
+  package_url: https://www.npmjs.com/npm
+  license: Artistic-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/js-tokens/package.json
+  detection_source: node_modules/js-tokens/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: object-assign
+  description: ES2015 `Object.assign
+  package_url: https://www.npmjs.com/object-assign
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16015/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/package-lock.json
+  detection_source: node_modules/object-assign/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: ol
+  description: OpenLayers mapping library
+  package_url: https://www.npmjs.com/ol
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/object-assign/package.json
+  detection_source: node_modules/object-assign/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: os
+  description: NodeJS Core Module Extended
+  package_url: https://www.npmjs.com/os
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: parcel-bundler
+  description: Blazing fast, zero configuration web application bundler
+  package_url: https://www.npmjs.com/parcel-bundler
+  version: 1.12.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16248/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: pretty
+  description: Some tweaks for beautifying HTML with js-beautify according to my preferences
+  package_url: https://www.npmjs.com/pretty
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18398/default_f4061389234135da82c3938a911e52969aa2abae.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: pretty-quick
+  description: Get Pretty Quick
+  package_url: https://www.npmjs.com/pretty-quick
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16281/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: process
+  description: Process information for node.js and browsers
+  package_url: https://www.npmjs.com/process
+  version: 0.11.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/package-lock.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: publish
+  description: Npm auto publishing of your modules
+  package_url: https://www.npmjs.com/publish
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18190/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: rc
+  description: Hardwired configuration loader
+  package_url: https://www.npmjs.com/rc
+  version: 1.2.1
+  license: BSD-2-Clause,MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16813/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 15.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: react-is
+  description: Brand checking of React Elements
+  package_url: https://www.npmjs.com/react-is
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17829/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/package-lock.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 15.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: replace
+  description: Command line search and replace utility
+  package_url: https://www.npmjs.com/replace
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16890/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.79.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched: 
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 8.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: st
+  description: A module for serving static files. Does etags, caching, etc
+  package_url: https://www.npmjs.com/st
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 1.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  version: 8.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/loose-envify/package.json
+  detection_source: node_modules/loose-envify/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  version: 2.2.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+  vulnerabilities:
+  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
+      to directory cache poisoning using symbolic links
+    cve_id: CVE-2021-37712
+    cve_url: https://github.com/advisories/GHSA-qq89-hq3f-393p
+    detected_date: Sep 1
+    severity: high
+    first_patched: 4.4.18
+  - name: Arbitrary File Creation/Overwrite on Windows via insufficient relative path
+      sanitization
+    cve_id: CVE-2021-37713
+    cve_url: https://github.com/advisories/GHSA-5955-9wpr-37jh
+    detected_date: Sep 1
+    severity: high
+    first_patched: 4.4.18
+  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
+      to directory cache poisoning using symbolic links
+    cve_id: CVE-2021-37701
+    cve_url: https://github.com/advisories/GHSA-9r2w-394v-53qc
+    detected_date: Sep 1
+    severity: high
+    first_patched: 4.4.16
+  - name: Arbitrary File Creation/Overwrite due to insufficient absolute path sanitization
+    cve_id: CVE-2021-32804
+    cve_url: https://github.com/advisories/GHSA-3jfq-g458-7qm9
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.2.2
+- name: temp
+  description: Temporary files and directories
+  package_url: https://www.npmjs.com/temp
+  version: 0.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16400/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: test
+  description: ''
+  package_url: https://www.npmjs.com/test
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/classnames/package.json
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: touch
+  description: Like touch
+  package_url: https://www.npmjs.com/touch
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17029/default_8ef738cb63f629c8e87903029b82b45840ab75a3.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-easy-swipe/package.json
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: tsc
+  description: Latest code from microsoft/typescript packaged and released
+  package_url: https://www.npmjs.com/tsc
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18739/default_45da7a7c78da21b4de04db19cc949c3490185f5e.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: tsx
+  description: TypeScript Execute
+  package_url: https://www.npmjs.com/tsx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-responsive-carousel/package.json
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: uglify
+  description: A simple tool to uglify javascript &amp; css files
+  package_url: https://www.npmjs.com/uglify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18097/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: uglifyify
+  description: A browserify transform which minifies your code using UglifyJS2
+  package_url: https://www.npmjs.com/uglifyify
+  version: 5.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16692/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/prop-types/package.json
+  detection_source: node_modules/prop-types/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: url
+  description: The core `url` packaged standalone for use with Browserify
+  package_url: https://www.npmjs.com/url
+  version: 0.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: util
+  description: Node.js's util module for all engines
+  package_url: https://www.npmjs.com/util
+  version: 0.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/classnames/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: watch
+  description: Utilities for watching file trees
+  package_url: https://www.npmjs.com/watch
+  version: 0.19.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: wd
+  description: WebDriver/Selenium 2 node.js client
+  package_url: https://www.npmjs.com/wd
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17450/default_8c4651c288471a00b2fd6f2055b6de29cb9a049d.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/react-easy-swipe/package.json
+  detection_source: node_modules/react-easy-swipe/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: write
+  description: Write data to a file, replacing the file if it already exists and creating
+    any intermediate directories if they don't already exist
+  package_url: https://www.npmjs.com/write
+  version: 0.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18762/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/node_modules/react-easy-swipe/yarn.lock
+  detection_source: node_modules/react-responsive-carousel/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: xo
+  description: JavaScript linter with great defaults
+  package_url: https://www.npmjs.com/xo
+  version: 0.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/node_modules/object-assign/package.json
+  detection_source: node_modules/object-assign/package.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: erusev/parsedown
+  description: Parser for Markdown
+  package_url: https://packagist.org/erusev/parsedown
+  version: 1.7.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/web/composer.lock
+  detection_source: web/composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: friendsofphp/php-cs-fixer
+  description: A tool to automatically fix PHP code style
+  package_url: https://packagist.org/friendsofphp/php-cs-fixer
+  version: 3.13.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/my-project/myapp/composer.json
+  detection_source: my-project/myapp/composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: google/apiclient
+  description: Client library for Google APIs
+  package_url: https://packagist.org/google/apiclient
+  version: 2.12.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: kint-php/kint
+  description: Kint - debugging tool for PHP developers
+  package_url: https://packagist.org/kint-php/kint
+  version: '3.3'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: mikey179/vfsStream
+  description: Virtual file system to mock the real file system in unit tests
+  package_url: https://packagist.org/mikey179/vfsStream
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/composer.json
+  detection_source: composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: php-coveralls/php-coveralls
+  description: PHP client library for Coveralls API
+  package_url: https://packagist.org/php-coveralls/php-coveralls
+  version: '2.5'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/my-project/myapp/composer.json
+  detection_source: my-project/myapp/composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: phpstan/phpstan
+  description: PHPStan - PHP Static Analysis Tool
+  package_url: https://packagist.org/phpstan/phpstan
+  version: 1.7.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/my-project/myapp/composer.json
+  detection_source: my-project/myapp/composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: phpunit/phpcov
+  description: CLI frontend for php-code-coverage
+  package_url: https://packagist.org/phpunit/phpcov
+  version: '8.2'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/my-project/myapp/composer.json
+  detection_source: my-project/myapp/composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: phpunit/phpunit
+  description: The PHP Unit Testing framework
+  package_url: https://packagist.org/phpunit/phpunit
+  version: 9.5.24
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: predis/predis
+  description: A flexible and feature-complete Redis client for PHP
+  package_url: https://packagist.org/predis/predis
+  version: 1.1.10
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: psr/log
+  description: Common interface for logging libraries
+  package_url: https://packagist.org/psr/log
+  version: 1.1.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
+- name: squizlabs/php_codesniffer
+  description: PHP_CodeSniffer tokenizes PHP
+  package_url: https://packagist.org/squizlabs/php_codesniffer
+  version: 3.7.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: ravichanga101
+  last_updated_on: 2022-12-24 10:45:21.000000000 Z
