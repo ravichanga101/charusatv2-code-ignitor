@@ -2,7 +2,7 @@ repo_name: ravichanga101/charusatv2-code-ignitor
 report_id: b7951946d4a93d98f15e5d1ded519346
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T08:42:30+00:00'
+timestamp: '2024-02-29T19:44:18+00:00'
 requested_by: ravichanga101
 provider: github
 branch: main
@@ -174,7 +174,7 @@ tools:
   detection_source_url: https://github.com/ravichanga101/charusatv2-code-ignitor
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -267,7 +267,7 @@ tools:
   last_updated_by: ravichanga101
   last_updated_on: 2022-12-24 10:45:21.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   open_source: true
   hosted_saas: false
@@ -476,7 +476,7 @@ tools:
   last_updated_by: ravichanga101
   last_updated_on: 2022-12-24 10:45:21.000000000 Z
 - name: Bundler
-  description: 'A consistent environment for tracking and installing  gems and versions '
+  description: A consistent environment for tracking and installing  gems and versions
   website_url: http://bundler.io
   open_source: false
   hosted_saas: false
@@ -710,7 +710,7 @@ tools:
   last_updated_by: ravichanga101
   last_updated_on: 2022-12-24 10:45:21.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.18.2
   license: MIT
@@ -2544,13 +2544,6 @@ tools:
   last_updated_by: ravichanga101
   last_updated_on: 2022-12-24 10:45:21.000000000 Z
   vulnerabilities:
-  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
-      to directory cache poisoning using symbolic links
-    cve_id: CVE-2021-37712
-    cve_url: https://github.com/advisories/GHSA-qq89-hq3f-393p
-    detected_date: Sep 1
-    severity: high
-    first_patched: 4.4.18
   - name: Arbitrary File Creation/Overwrite on Windows via insufficient relative path
       sanitization
     cve_id: CVE-2021-37713
@@ -2558,13 +2551,6 @@ tools:
     detected_date: Sep 1
     severity: high
     first_patched: 4.4.18
-  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
-      to directory cache poisoning using symbolic links
-    cve_id: CVE-2021-37701
-    cve_url: https://github.com/advisories/GHSA-9r2w-394v-53qc
-    detected_date: Sep 1
-    severity: high
-    first_patched: 4.4.16
   - name: Arbitrary File Creation/Overwrite due to insufficient absolute path sanitization
     cve_id: CVE-2021-32804
     cve_url: https://github.com/advisories/GHSA-3jfq-g458-7qm9
